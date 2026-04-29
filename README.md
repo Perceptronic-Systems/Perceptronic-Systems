@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Andrew Kirk<br><br>- 🔭 I’m working as a junior software engineer<br>- 📚 I'm currently learning networking and server management<br>- ⚡ In my free time I like to play acoustic guitar</p>
+<p align="left">My name is Andrew Kirk<br><br>- 🔭 I’m working as a junior software engineer<br>- 📚 I'm currently learning networking and server management<br>- ⚡ In my free time I like to play acoustic guitar</p>
 
 ###
 
